@@ -1,3 +1,6 @@
+//Q3: Write a program to find whether a given target value exists in the array or not.
+
+
 #include <iostream>
 #include<vector>
 using namespace std;

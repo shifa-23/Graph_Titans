@@ -1,3 +1,6 @@
+ // Q1. Print an Array
+ // Write a program that takes an array as input and prints all its elements.
+
 #include <iostream>
 using namespace std;
 
